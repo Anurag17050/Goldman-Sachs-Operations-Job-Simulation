@@ -62,5 +62,5 @@ The **Goldman Sachs Operations Virtual Experience Program** on Forage provides s
 ## Author
 **Anurag**  
 CSE Undergraduate, VNIT Nagpur  
-[LinkedIn or GitHub link if desired]
+[LinkedIn](http://www.linkedin.com/in/anurag-marda-b39492297)
 
